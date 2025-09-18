@@ -1,0 +1,8 @@
+__pycache__/
+*.mpy
+secrets.py
+doser_cfg.json
+.DS_Store
+*.swp
+.vscode/
+.idea/
